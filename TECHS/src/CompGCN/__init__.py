@@ -1,1 +1,0 @@
-from .compgcn import CompGCN_DistMult, CompGCN_ConvE
