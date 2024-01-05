@@ -5,8 +5,8 @@ import os
 def run_TLoGN():
     # max_nodes_list = [20, 40, 60, 100]  # 40
     # sample_nodes_list = [15, 50, 100, 600]  # 15
-    max_nodes_list = [100]  # 40
-    sample_nodes_list = [100]  # 15
+    max_nodes_list = [120]  # 40
+    sample_nodes_list = [600]  # 15
     sample_method = 3  # 1 2 3所有 前向 后向
     sample_ratio = 0.5
     logic_ratio = 0.5
