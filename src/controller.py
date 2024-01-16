@@ -9,7 +9,7 @@ def run_TLoGN():
     sample_nodes_list = [600]  # 15
     sample_method = 3  # 1 2 3所有 前向 后向
     sample_ratio = 0.5
-    logic_ratio = 0.5
+    logic_ratio = 0.8
     score_method = 'att'  # emd att both
     loss = 'bce'  # bce max_min focal
     use_gcn = 1  # 不使用GCN
